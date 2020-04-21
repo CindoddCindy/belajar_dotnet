@@ -1,0 +1,13 @@
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/bin/Debug/netcoreapp3.1/HelloApp
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.deps.json
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.runtimeconfig.json
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.runtimeconfig.dev.json
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.dll
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.pdb
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.csprojAssemblyReference.cache
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.csproj.CoreCompileInputs.cache
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.AssemblyInfoInputs.cache
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.AssemblyInfo.cs
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.dll
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.pdb
+/home/cindy/Documents/project/upload_to_git/dotnet_test/belajar_dotnet/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.genruntimeconfig.cache
